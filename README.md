@@ -1,3 +1,4 @@
+<h1>Pin Matcher</h1>
 <img src="/image/pinMatcher.png"/>
 <h2><a href="https://piyashhasan.github.io/Pin-Matcher">Live</a></h2>
 <h2>Features</h2>
